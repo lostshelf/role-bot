@@ -7,6 +7,4 @@ edition = "2021"
 
 [dependencies]
 serenity = "0.11.2"
-
-[dependencies.serenity]
-default-features = true
+toml = "0.5.9"
